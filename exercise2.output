@@ -1,0 +1,17 @@
+# Exercise 2
+Initial X-Coord: 0
+Initial Y-Coord: 0
+Moved Right..
+Moved Right..
+Moved Left..
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+Final X-Coord: 3
+Final Y-Coord: 0
+=> nil
