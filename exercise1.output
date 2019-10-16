@@ -1,0 +1,11 @@
+# Exercise 1, part 1
+25
+51
+
+# Exercise 1, part 2
+aircraft_1 coordinates are:  57 20
+aircraft_2 coordinates are:  19 3
+aircraft_3 coordinates are:  15 67
+aircraft_4 coordinates are:  26 60
+aircraft_5 coordinates are:  86 62
+=> ["aircraft_1", "aircraft_2", "aircraft_3", "aircraft_4", "aircraft_5"]
